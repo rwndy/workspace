@@ -2,7 +2,7 @@
 
 An interactive visual workspace configurator where digital nomads in Bali can design their dream office setup, see it come to life in real-time, and rent everything with one click.
 
-**Live demo:** [your-deployed-url.vercel.app](https://your-deployed-url.vercel.app)
+**Live demo:** [your-deployed-url.vercel.app](https://workspace-gamma-three.vercel.app/)
 
 ---
 
